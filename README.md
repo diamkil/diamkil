@@ -17,9 +17,17 @@
 | 📦 | 1 | [diamkil/socials](https://github.com/diamkil/socials) | null |
 | 📦 | 0 | [diamkil/diamkil](https://github.com/diamkil/diamkil) | null |
 
+### Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diamkil)
+
+### Stats Card
+
+![diamkil's GitHub stats](https://github-readme-stats.vercel.app/api?username=diamkil)
+
 ---
 
 <p align="center">
   Last refresh: 
-  <b>2021-08-05T19:42:21Z</b>
+  <b>2021-08-05T19:57:26Z</b>
 </p>
