@@ -4,7 +4,7 @@
 
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
 
-### Most recent Repos:
+### Most Popular Repos:
 
 <!--GITHUB_REPOS:{"rows": 4}-->
 
