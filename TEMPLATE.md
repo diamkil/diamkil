@@ -8,6 +8,14 @@
 
 <!--GITHUB_REPOS:{"rows": 4}-->
 
+### Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diamkil)
+
+### Stats Card
+
+![diamkil's GitHub stats](https://github-readme-stats.vercel.app/api?username=diamkil)
+
 ---
 
 <p align="center">
