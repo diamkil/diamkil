@@ -10,7 +10,7 @@
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diamkil&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diamkil&layout=compact&langs_count=10)
 
 ### Stats Card
 
