@@ -19,15 +19,15 @@
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diamkil)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diamkil&layout=compact&langs_count=6)
 
 ### Stats Card
 
-![diamkil's GitHub stats](https://github-readme-stats.vercel.app/api?username=diamkil)
+![diamkil's GitHub stats](https://github-readme-stats.vercel.app/api?username=diamkil&count_private=true&show_icons=true)
 
 ---
 
 <p align="center">
   Last refresh: 
-  <b>2021-08-05T20:01:29Z</b>
+  <b>2021-08-05T20:08:50Z</b>
 </p>
