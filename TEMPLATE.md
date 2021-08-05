@@ -10,11 +10,11 @@
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diamkil)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diamkil&layout=compact&langs_count=6)
 
 ### Stats Card
 
-![diamkil's GitHub stats](https://github-readme-stats.vercel.app/api?username=diamkil)
+![diamkil's GitHub stats](https://github-readme-stats.vercel.app/api?username=diamkil&count_private=true&show_icons=true)
 
 ---
 
