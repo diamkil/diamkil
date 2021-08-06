@@ -24,5 +24,5 @@
 
 <p align="center">
   Last refresh: 
-  <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss"}--></b>
+  <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss", "tz": "America/Toronto"}--> (Toronto Time)</b>
 </p>
