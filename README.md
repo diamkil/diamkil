@@ -5,9 +5,9 @@
 ```
 ⬆️ Pushed 1 commit to diamkil/screenshots
 ⬆️ Pushed 1 commit to diamkil/screenshots
-⬆️ Pushed 1 commit to diamkil/diamkil
 ⬆️ Pushed 1 commit to diamkil/screenshots
 ⬆️ Pushed 1 commit to diamkil/diamkil
+⬆️ Pushed 1 commit to diamkil/screenshots
 ```
 
 ### Most Popular Repos:
@@ -34,5 +34,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Friday, August 6th 2021, 3:05:59 (Toronto Time)</b>
+  <b>Friday, August 6th 2021, 3:08:24 (Toronto Time)</b>
 </p>
