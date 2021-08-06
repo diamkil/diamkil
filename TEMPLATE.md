@@ -6,7 +6,7 @@
 
 ### Most Popular Repos:
 
-<!--GITHUB_REPOS:{"rows": 5}-->
+<!--GITHUB_REPOS:{"rows": 10}-->
 
 ### Top Languages
 
