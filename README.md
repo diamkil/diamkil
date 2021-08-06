@@ -5,7 +5,7 @@
 ```
 ⬆️ Pushed 1 commit to diamkil/diamkil
 ⬆️ Pushed 1 commit to diamkil/screenshots
-⬆️ Pushed 1 commit to diamkil/screenshots
+⬆️ Pushed 1 commit to diamkil/diamkil
 ⬆️ Pushed 1 commit to diamkil/screenshots
 ⬆️ Pushed 1 commit to diamkil/screenshots
 ```
@@ -34,5 +34,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Friday, August 6th 2021, 2:46:30 (Toronto Time)</b>
+  <b>Friday, August 6th 2021, 2:55:32 (Toronto Time)</b>
 </p>
