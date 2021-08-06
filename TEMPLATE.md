@@ -2,11 +2,15 @@
 
 ### 🗣 My activity:
 
+```
 <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+```
 
 ### Most Popular Repos:
 
+```
 <!--GITHUB_REPOS:{"rows": 10, "raw": true}-->
+```
 
 ### Top Languages
 
