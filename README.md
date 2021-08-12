@@ -14,8 +14,8 @@
 
 ```
 ⭐️ 5 📦 diamkil/docker-notea
+⭐️ 3 📦 diamkil/socials
 ⭐️ 2 📦 diamkil/screenshots
-⭐️ 2 📦 diamkil/socials
 ⭐️ 0 📦 diamkil/diamkil
 ⭐️ 0 📦 diamkil/docker-templates
 ⭐️ 0 📦 diamkil/prnt.sc
@@ -34,5 +34,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, August 12th 2021, 1:10:20 (Toronto Time)</b>
+  <b>Thursday, August 12th 2021, 2:01:23 (Toronto Time)</b>
 </p>
