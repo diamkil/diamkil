@@ -9,7 +9,7 @@
 ### Most Popular Repos:
 
 ```
-<!--GITHUB_REPOS:{"rows": 10, "raw": true}-->
+<!--GITHUB_REPOS:{"rows": 5, "raw": true}-->
 ```
 
 ### Top Languages
