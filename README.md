@@ -3,11 +3,11 @@
 ### 🗣 My activity:
 
 ```
-⬆️ Pushed 1 commit to diamkil/diamkil
 ⬆️ Pushed 1 commit to diamkil/screenshots
-⬆️ Pushed 1 commit to diamkil/socials
-⬆️ Pushed 1 commit to diamkil/socials
-🗣 Commented on #5 in diamkil/socials
+⬆️ Pushed 2 commits to diamkil/socials
+🎉 Merged PR #12 in diamkil/socials
+⬆️ Pushed 2 commits to diamkil/socials
+🎉 Merged PR #11 in diamkil/socials
 ```
 
 ### Most Popular Repos:
@@ -32,5 +32,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Monday, August 16th 2021, 4:28:06 (Toronto Time)</b>
+  <b>Monday, August 16th 2021, 4:35:24 (Toronto Time)</b>
 </p>
