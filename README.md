@@ -4,9 +4,9 @@
 
 ```
 ⬆️ Pushed 2 commits to diamkil/screenshots
-🎉 Merged PR #3 in diamkil/screenshots
+🎉 Merged PR #4 in diamkil/screenshots
 ⬆️ Pushed 2 commits to diamkil/screenshots
-🎉 Merged PR #5 in diamkil/screenshots
+🎉 Merged PR #3 in diamkil/screenshots
 ⬆️ Pushed 2 commits to diamkil/screenshots
 ```
 
@@ -32,5 +32,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Monday, August 16th 2021, 4:40:21 (Toronto Time)</b>
+  <b>Monday, August 16th 2021, 4:41:41 (Toronto Time)</b>
 </p>
