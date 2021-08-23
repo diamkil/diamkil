@@ -4,10 +4,10 @@
 
 ```
 ⬆️ Pushed 2 commits to diamkil/screenshots
+🎉 Merged PR #9 in diamkil/screenshots
+⬆️ Pushed 2 commits to diamkil/screenshots
 🎉 Merged PR #8 in diamkil/screenshots
 ⬆️ Pushed 2 commits to diamkil/socials
-🎉 Merged PR #13 in diamkil/socials
-⬆️ Pushed 2 commits to diamkil/screenshots
 ```
 
 ### Most Popular Repos:
@@ -32,5 +32,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Monday, August 23rd 2021, 10:38:35 (Toronto Time)</b>
+  <b>Monday, August 23rd 2021, 10:40:37 (Toronto Time)</b>
 </p>
