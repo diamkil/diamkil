@@ -3,11 +3,11 @@
 ### 🗣 My activity:
 
 ```
+🍴 Forked diamkil/swot from JetBrains/swot
 ⬆️ Pushed 2 commits to diamkil/socials
 🎉 Merged PR #15 in diamkil/socials
 ⬆️ Pushed 2 commits to diamkil/socials
 🎉 Merged PR #16 in diamkil/socials
-⬆️ Pushed 2 commits to diamkil/screenshots
 ```
 
 ### Most Popular Repos:
@@ -32,5 +32,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Friday, August 27th 2021, 11:01:27 (Toronto Time)</b>
+  <b>Friday, August 27th 2021, 12:02:00 (Toronto Time)</b>
 </p>
