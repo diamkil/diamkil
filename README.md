@@ -32,5 +32,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Saturday, August 28th 2021, 6:01:06 (Toronto Time)</b>
+  <b>Saturday, August 28th 2021, 7:00:59 (Toronto Time)</b>
 </p>
