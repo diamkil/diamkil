@@ -13,11 +13,11 @@
 ### Most Popular Repos:
 
 ```
-⭐️ 8460 📦 github/copilot-preview
-⭐️ 7    📦 diamkil/docker-notea
-⭐️ 4    📦 diamkil/socials
-⭐️ 2    📦 diamkil/screenshots
-⭐️ 0    📦 diamkil/diamkil
+⭐️ 7 📦 diamkil/docker-notea
+⭐️ 4 📦 diamkil/socials
+⭐️ 2 📦 diamkil/screenshots
+⭐️ 0 📦 diamkil/diamkil
+⭐️ 0 📦 diamkil/docker-templates
 ```
 
 ### Top Languages
@@ -32,5 +32,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Saturday, October 23rd 2021, 12:01:52 (Toronto Time)</b>
+  <b>Saturday, October 23rd 2021, 1:08:23 (Toronto Time)</b>
 </p>
