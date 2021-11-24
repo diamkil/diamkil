@@ -3,11 +3,11 @@
 ### 🗣 My activity:
 
 ```
-⬆️ Pushed 1 commit to SupremeObsidian/Discord-MusicBot
-🗣 Commented on #1064 in JanDeDobbeleer/oh-my-posh
-❗️ Opened issue #1064 in JanDeDobbeleer/oh-my-posh
-🗣 Commented on #7 in gchamon/sysrsync
-🗣 Commented on #7 in gchamon/sysrsync
+❌ Closed PR #55 in diamkil/screenshots
+❌ Closed PR #52 in diamkil/screenshots
+❌ Closed PR #51 in diamkil/screenshots
+❌ Closed PR #49 in diamkil/screenshots
+❌ Closed PR #29 in diamkil/screenshots
 ```
 
 ### Most Popular Repos:
@@ -32,5 +32,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, November 24th 2021, 12:01:36 (Toronto Time)</b>
+  <b>Wednesday, November 24th 2021, 1:02:23 (Toronto Time)</b>
 </p>
