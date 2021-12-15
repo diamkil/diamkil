@@ -3,11 +3,11 @@
 ### 🗣 My activity:
 
 ```
+❗️ Opened issue #2772 in ViaVersion/ViaVersion
 ❌ Closed PR #55 in diamkil/screenshots
 ❌ Closed PR #52 in diamkil/screenshots
 ❌ Closed PR #51 in diamkil/screenshots
 ❌ Closed PR #49 in diamkil/screenshots
-❌ Closed PR #29 in diamkil/screenshots
 ```
 
 ### Most Popular Repos:
@@ -32,5 +32,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, December 15th 2021, 2:01:13 (Toronto Time)</b>
+  <b>Wednesday, December 15th 2021, 3:01:36 (Toronto Time)</b>
 </p>
