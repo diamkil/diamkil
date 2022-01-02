@@ -32,5 +32,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Sunday, January 2nd 2022, 1:01:30 (Toronto Time)</b>
+  <b>Sunday, January 2nd 2022, 2:01:00 (Toronto Time)</b>
 </p>
