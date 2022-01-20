@@ -3,11 +3,11 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #273 in AllTheMods/ATM-7
 🗣 Commented on #2772 in ViaVersion/ViaVersion
 ❗️ Opened issue #2772 in ViaVersion/ViaVersion
 ❌ Closed PR #55 in diamkil/screenshots
 ❌ Closed PR #52 in diamkil/screenshots
-❌ Closed PR #51 in diamkil/screenshots
 ```
 
 ### Most Popular Repos:
@@ -32,5 +32,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, January 20th 2022, 3:02:48 (Toronto Time)</b>
+  <b>Thursday, January 20th 2022, 4:01:02 (Toronto Time)</b>
 </p>
