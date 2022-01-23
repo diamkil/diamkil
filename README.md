@@ -3,11 +3,11 @@
 ### 🗣 My activity:
 
 ```
+💪 Opened PR #12 in MineTheCube/ClientStats
+⬆️ Pushed 1 commit to diamkil/ClientStats
+🍴 Forked diamkil/ClientStats from MineTheCube/ClientStats
 🗣 Commented on #273 in AllTheMods/ATM-7
 🗣 Commented on #2772 in ViaVersion/ViaVersion
-❗️ Opened issue #2772 in ViaVersion/ViaVersion
-❌ Closed PR #55 in diamkil/screenshots
-❌ Closed PR #52 in diamkil/screenshots
 ```
 
 ### Most Popular Repos:
@@ -16,8 +16,8 @@
 ⭐️ 8 📦 diamkil/docker-notea
 ⭐️ 5 📦 diamkil/socials
 ⭐️ 2 📦 diamkil/screenshots
+⭐️ 0 📦 diamkil/ClientStats
 ⭐️ 0 📦 diamkil/diamkil
-⭐️ 0 📦 diamkil/docker-templates
 ```
 
 ### Top Languages
@@ -32,5 +32,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Sunday, January 23rd 2022, 1:01:25 (Toronto Time)</b>
+  <b>Sunday, January 23rd 2022, 2:01:02 (Toronto Time)</b>
 </p>
