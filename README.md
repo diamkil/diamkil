@@ -4,10 +4,10 @@
 
 ```
 🗣 Commented on #4024 in pterodactyl/panel
+🗣 Commented on #4024 in pterodactyl/panel
 ❗️ Opened issue #4024 in pterodactyl/panel
 🍴 Forked diamkil/FreeRDP-Manuals from awakecoding/FreeRDP-Manuals
 ❗️ Opened issue #313 in Fmstrat/winapps
-⬆️ Pushed 1 commit to diamkil/ClientStats
 ```
 
 ### Most Popular Repos:
@@ -32,5 +32,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Monday, March 28th 2022, 4:02:37 (Toronto Time)</b>
+  <b>Monday, March 28th 2022, 5:01:26 (Toronto Time)</b>
 </p>
