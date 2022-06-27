@@ -13,7 +13,7 @@
 ### Most Popular Repos:
 
 ```
-⭐️ 8 📦 diamkil/docker-notea
+⭐️ 9 📦 diamkil/docker-notea
 ⭐️ 5 📦 diamkil/socials
 ⭐️ 2 📦 diamkil/screenshots
 ⭐️ 0 📦 diamkil/ClientStats
@@ -32,5 +32,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Monday, June 27th 2022, 5:01:24 (Toronto Time)</b>
+  <b>Monday, June 27th 2022, 6:02:08 (Toronto Time)</b>
 </p>
