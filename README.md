@@ -6,8 +6,6 @@
 🍴 Forked diamkil/Geyser from ImDaBigBoss/Geyser
 🗣 Commented on #4098 in pterodactyl/panel
 ❗️ Opened issue #4098 in pterodactyl/panel
-💪 Opened PR #1 in Cewlt/JustOneMoreBungee
-⬆️ Pushed 1 commit to diamkil/JustOneMoreBungee
 ```
 
 ### Most Popular Repos:
@@ -32,5 +30,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, July 5th 2022, 8:35:01 (Toronto Time)</b>
+  <b>Tuesday, July 5th 2022, 11:11:40 (Toronto Time)</b>
 </p>
