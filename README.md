@@ -3,11 +3,11 @@
 ### 🗣 My activity:
 
 ```
-⬆️ Pushed 1 commit to diamkil/screenshots
-🗣 Commented on #4 in diamkil/docker-notea
-⬆️ Pushed 1 commit to diamkil/docker-notea
-⬆️ Pushed 2 commits to diamkil/docker-notea
-🎉 Merged PR #4 in diamkil/docker-notea
+⬆️ Pushed 1 commit to diamkil/pterodactyl-stuff
+🗣 Commented on #44 in GeyserMC/pterodactyl-stuff
+💪 Opened PR #44 in GeyserMC/pterodactyl-stuff
+⬆️ Pushed 1 commit to diamkil/pterodactyl-stuff
+🍴 Forked diamkil/pterodactyl-stuff from GeyserMC/pterodactyl-stuff
 ```
 
 ### Most Popular Repos:
@@ -32,5 +32,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Sunday, September 25th 2022, 12:06:31 (Toronto Time)</b>
+  <b>Sunday, September 25th 2022, 1:12:45 (Toronto Time)</b>
 </p>
