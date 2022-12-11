@@ -3,11 +3,11 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #437 in PaperMC/Paper
 ❗️ Opened issue #4590 in pterodactyl/panel
 💪 Opened PR #1983 in parkervcp/eggs
 ⬆️ Pushed 1 commit to diamkil/eggs
 ⬆️ Pushed 1 commit to diamkil/eggs
-🍴 Forked diamkil/eggs from parkervcp/eggs
 ```
 
 ### Most Popular Repos:
@@ -32,5 +32,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Sunday, December 11th 2022, 12:01:59 (Toronto Time)</b>
+  <b>Sunday, December 11th 2022, 1:06:14 (Toronto Time)</b>
 </p>
