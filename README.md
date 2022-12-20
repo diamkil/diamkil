@@ -14,7 +14,7 @@
 
 ```
 ⭐️ 9 📦 diamkil/docker-notea
-⭐️ 7 📦 diamkil/socials
+⭐️ 8 📦 diamkil/socials
 ⭐️ 2 📦 diamkil/screenshots
 ⭐️ 0 📦 diamkil/ClientStats
 ⭐️ 0 📦 diamkil/diamkil
@@ -32,5 +32,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, December 20th 2022, 5:02:25 (Toronto Time)</b>
+  <b>Tuesday, December 20th 2022, 6:01:15 (Toronto Time)</b>
 </p>
