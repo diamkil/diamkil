@@ -13,11 +13,11 @@
 ### Most Popular Repos:
 
 ```
-⭐️ 9 📦 diamkil/docker-notea
-⭐️ 8 📦 diamkil/socials
-⭐️ 2 📦 diamkil/screenshots
-⭐️ 0 📦 diamkil/ClientStats
-⭐️ 0 📦 diamkil/diamkil
+⭐️ 10 📦 diamkil/docker-notea
+⭐️ 8  📦 diamkil/socials
+⭐️ 2  📦 diamkil/screenshots
+⭐️ 0  📦 diamkil/ClientStats
+⭐️ 0  📦 diamkil/diamkil
 ```
 
 ### Top Languages
@@ -32,5 +32,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, December 28th 2022, 11:06:22 (Toronto Time)</b>
+  <b>Thursday, December 29th 2022, 12:01:15 (Toronto Time)</b>
 </p>
