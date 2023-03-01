@@ -6,8 +6,6 @@
 ❗️ Opened issue #2395 in DV8FromTheWorld/JDA
 🗣 Commented on #437 in PaperMC/Paper
 ❗️ Opened issue #4590 in pterodactyl/panel
-💪 Opened PR #1983 in parkervcp/eggs
-⬆️ Pushed 1 commit to diamkil/eggs
 ```
 
 ### Most Popular Repos:
@@ -32,5 +30,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, February 28th 2023, 9:24:50 (Toronto Time)</b>
+  <b>Tuesday, February 28th 2023, 10:21:21 (Toronto Time)</b>
 </p>
