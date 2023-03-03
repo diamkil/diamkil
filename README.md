@@ -5,7 +5,6 @@
 ```
 ❗️ Opened issue #2395 in DV8FromTheWorld/JDA
 🗣 Commented on #437 in PaperMC/Paper
-❗️ Opened issue #4590 in pterodactyl/panel
 ```
 
 ### Most Popular Repos:
@@ -30,5 +29,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, March 2nd 2023, 9:24:37 (Toronto Time)</b>
+  <b>Thursday, March 2nd 2023, 11:22:41 (Toronto Time)</b>
 </p>
