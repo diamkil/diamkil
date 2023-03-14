@@ -3,11 +3,11 @@
 ### 🗣 My activity:
 
 ```
+❗️ Opened issue #2187 in parkervcp/eggs
 🗣 Commented on #258 in skyra-project/discord-components
 🗣 Commented on #258 in skyra-project/discord-components
 🗣 Commented on #327 in skyra-project/discord-components
 ❗️ Opened issue #327 in skyra-project/discord-components
-❗️ Opened issue #2395 in DV8FromTheWorld/JDA
 ```
 
 ### Most Popular Repos:
@@ -32,5 +32,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Monday, March 13th 2023, 8:26:25 (Toronto Time)</b>
+  <b>Monday, March 13th 2023, 9:54:38 (Toronto Time)</b>
 </p>
