@@ -4,10 +4,10 @@
 
 ```
 🗣 Commented on #2187 in parkervcp/eggs
+🗣 Commented on #2187 in parkervcp/eggs
 ❗️ Opened issue #2187 in parkervcp/eggs
 🗣 Commented on #258 in skyra-project/discord-components
 🗣 Commented on #258 in skyra-project/discord-components
-🗣 Commented on #327 in skyra-project/discord-components
 ```
 
 ### Most Popular Repos:
@@ -32,5 +32,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, March 21st 2023, 7:01:35 (Toronto Time)</b>
+  <b>Tuesday, March 21st 2023, 8:08:51 (Toronto Time)</b>
 </p>
