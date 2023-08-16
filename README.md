@@ -28,5 +28,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, August 16th 2023, 7:00:40 (Toronto Time)</b>
+  <b>Wednesday, August 16th 2023, 8:08:00 (Toronto Time)</b>
 </p>
