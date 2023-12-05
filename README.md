@@ -5,7 +5,6 @@
 ```
 🗣 Commented on #1102 in PaperMC/Velocity
 ❗️ Opened issue #1462 in freqtrade/frequi
-❗️ Opened issue #188 in mattwebbio/orbital-sync
 ```
 
 ### Most Popular Repos:
@@ -30,5 +29,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Monday, December 4th 2023, 11:06:40 (Toronto Time)</b>
+  <b>Tuesday, December 5th 2023, 12:01:15 (Toronto Time)</b>
 </p>
