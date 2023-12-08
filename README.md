@@ -4,7 +4,6 @@
 
 ```
 🗣 Commented on #1102 in PaperMC/Velocity
-❗️ Opened issue #1462 in freqtrade/frequi
 ```
 
 ### Most Popular Repos:
@@ -29,5 +28,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Friday, December 8th 2023, 12:01:56 (Toronto Time)</b>
+  <b>Friday, December 8th 2023, 1:07:35 (Toronto Time)</b>
 </p>
