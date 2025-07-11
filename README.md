@@ -6,8 +6,8 @@
 ⬆️ Pushed 1 commit to diamkil/unmanic-autopause
 ⬆️ Pushed 1 commit to diamkil/unmanic-autopause
 ⬆️ Pushed 1 commit to diamkil/unmanic-autopause
+⬆️ Pushed 1 commit to diamkil/unmanic-autopause
 🗣 Commented on #208 in Cleanuparr/Cleanuparr
-❗️ Opened issue #208 in Cleanuparr/Cleanuparr
 ```
 
 ### Most Popular Repos:
@@ -32,5 +32,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Friday, July 11th 2025, 5:18:17 (Toronto Time)</b>
+  <b>Friday, July 11th 2025, 8:33:22 (Toronto Time)</b>
 </p>
