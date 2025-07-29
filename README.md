@@ -3,7 +3,7 @@
 ### 🗣 My activity:
 
 ```
-⬆️ Pushed 1 commit to diamkil/unmanic-autopause
+❗️ Opened issue #2213 in ErsatzTV/ErsatzTV
 ⬆️ Pushed 1 commit to diamkil/unmanic-autopause
 ⬆️ Pushed 1 commit to diamkil/unmanic-autopause
 ⬆️ Pushed 1 commit to diamkil/unmanic-autopause
@@ -32,5 +32,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Monday, July 28th 2025, 9:42:53 (Toronto Time)</b>
+  <b>Tuesday, July 29th 2025, 12:05:30 (Toronto Time)</b>
 </p>
