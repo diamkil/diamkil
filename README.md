@@ -3,11 +3,11 @@
 ### 🗣 My activity:
 
 ```
+❗️ Opened issue #8006 in Sonarr/Sonarr
 🗣 Commented on #2213 in ErsatzTV/ErsatzTV
 🗣 Commented on #2213 in ErsatzTV/ErsatzTV
 🗣 Commented on #163 in lovelaze/nebula-sync
 🗣 Commented on #163 in lovelaze/nebula-sync
-🗣 Commented on #2213 in ErsatzTV/ErsatzTV
 ```
 
 ### Most Popular Repos:
@@ -32,5 +32,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, August 5th 2025, 5:16:46 (Toronto Time)</b>
+  <b>Tuesday, August 5th 2025, 9:24:57 (Toronto Time)</b>
 </p>
