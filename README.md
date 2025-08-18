@@ -16,8 +16,8 @@
 ⭐️ 11 📦 diamkil/docker-notea
 ⭐️ 10 📦 diamkil/socials
 ⭐️ 2  📦 diamkil/screenshots
+⭐️ 1  📦 diamkil/unmanic-autopause
 ⭐️ 0  📦 diamkil/ClientStats
-⭐️ 0  📦 diamkil/collection-monitorrr
 ```
 
 ### Top Languages
@@ -32,5 +32,5 @@
 
 <p align="center">
   Last refresh: 
-  <b>Monday, August 18th 2025, 11:18:07 (Toronto Time)</b>
+  <b>Monday, August 18th 2025, 2:24:32 (Toronto Time)</b>
 </p>
